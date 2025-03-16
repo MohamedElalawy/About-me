@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Elalawy</h1>
-<h3 align="center">A passionate Embedded Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Embedded Software Engineer.</h3>
 
 - 📫 How to reach me **mohamedelalawey7@gmail.com**
 
